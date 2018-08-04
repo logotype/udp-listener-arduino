@@ -1,9 +1,3 @@
 # udp-listener-arduino
-Experiments to receive broadcast UDP messages from WiFi shields.
 
---------------------------
-Built with IntelliJ IDEA Open Source License
-
-<a href="https://www.jetbrains.com/buy/opensource/"><img src="https://s3-ap-southeast-1.amazonaws.com/www.logotype.se/assets/logo-text.svg" width="200"></a>
-
-The people at JetBrains supports the Open Source community by offering free licenses. Check out <a href="https://www.jetbrains.com/buy/opensource/">JetBrains Open Source</a> to apply for your project. Thank you!
+[Migrated to GitLab https://gitlab.com/logotype/udp-listener-arduino](https://gitlab.com/logotype/udp-listener-arduino)
